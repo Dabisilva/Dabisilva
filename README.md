@@ -1,11 +1,15 @@
-### Davi Barbosa da Silva
+<img width="auto" src="https://avatars0.githubusercontent.com/u/57877449?s=460&u=38c139ae53da3814aa6a3cf40b293e6c898278df&v=4">
 
--Tenho 18 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no UniCEUB, sou apaixonado por tudo que envolve tecnologias.
--Trabalho como desenvolvedor front-end e mobile usando Vue, React e React native na Nolu Tecnologia.
--Começei a aprender sobre essas tecnologias em 2020, foi amor as primeiras linhas de código ❤❤
+# Davi Barbosa da Silva
 
--contato:+5561998828280                                    
--Linkedin: https://www.linkedin.com/in/davi-barbosa-473211198/
+## Olá pessoal 👋
+Tenho 18 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no UniCEUB, sou apaixonado por tudo que envolve tecnologias.
+Trabalho como desenvolvedor front-end e mobile usando Vue, React e React native na **Nolu Tecnologia**.
+
+ <br/>Começei a aprender sobre essas tecnologias em 2020, foi amor as primeiras linhas de código ❤❤
+ <br/> :Linkedin: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/davi-barbosa-473211198/)
+ <br/>Telefone:+5561998828280
+ 
 <!--
 **Dabisilva/Dabisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
