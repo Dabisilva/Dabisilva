@@ -7,7 +7,7 @@ Tenho 18 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no
 Trabalho como desenvolvedor front-end e mobile usando Vue, React e React native na **Nolu Tecnologia**.
 
  <br/>Começei a aprender sobre essas tecnologias em 2020, foi amor as primeiras linhas de código ❤❤
- <br/> :Linkedin: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/davi-barbosa-473211198/)
+ <br/><a href="https://www.linkedin.com/in/davi-barbosa-473211198" target="_blank">Linkedin</a>
  <br/>Telefone:+5561998828280
  
 <!--
