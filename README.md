@@ -2,7 +2,7 @@
 
 Tenho 18 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no UniCEUB, 
 sou apaixonado por tudo que envolve tecnologias, trabalho como desenvolvedor front-end
-e mobile usando React e React native. Começei a aprender sobre essas tecnologias em 2020,
+e mobile usando Vue, React e React native na Nolu Tecnologia. Começei a aprender sobre essas tecnologias em 2020,
 foi amor as primeiras linhas de código ❤❤
 
 
