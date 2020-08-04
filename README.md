@@ -6,7 +6,8 @@ e mobile usando React e React native. Começei a aprender sobre essas tecnologia
 foi amor as primeiras linhas de código ❤❤
 
 
-contato:+5561998828280                                    Linkedin: https://www.linkedin.com/in/davi-barbosa-473211198/
+-contato:+5561998828280                                    
+-Linkedin: https://www.linkedin.com/in/davi-barbosa-473211198/
 <!--
 **Dabisilva/Dabisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
