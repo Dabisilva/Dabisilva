@@ -1,5 +1,3 @@
-<img width="auto" src="https://avatars0.githubusercontent.com/u/57877449?s=460&u=38c139ae53da3814aa6a3cf40b293e6c898278df&v=4">
-
 # Davi Barbosa da Silva
 
 Tenho 18 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no UniCEUB, sou apaixonado por tudo que envolve tecnologias.
