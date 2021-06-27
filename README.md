@@ -1,23 +1,16 @@
-# Davi Barbosa da Silva
+Hey there 👋
 
-Tenho 19 anos moro em Brasilia-DF e sou estudante de ciêcnia da computação no UniCEUB, sou apaixonado por tudo que envolve tecnologias.
-Trabalho como desenvolvedor Junior | React | react-native | Next.js.
+I'm Davi Barbosa🚀. I'm a developer websites and mobile apps .Currently my stack is:
 
- <br/>Começei a aprender sobre essas tecnologias em 2020, foi amor as primeiras linhas de código ❤❤
+💻 Web front-end development with ReactJs<br/>
+📱 Mobile applications for Android and iOS with React Native<br/>
+
+But, I also used it in projects:
+
+                                                   
+🎓 I am studying third semester of computer science.<br/>
+🎓 Currently taking the Rocketseat Ignite course.
+
  <br/><a href="https://www.linkedin.com/in/davi-barbosa-da-silva/">Linkedin</a>
- <br/>Telefone:+5561998828280
- 
-<!--
-**Dabisilva/Dabisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br/>Phone:+5561998828280
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
