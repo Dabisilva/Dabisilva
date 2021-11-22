@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Davi Barbosa🚀. I'm a developer websites and mobile apps .Currently my stack is:
+I'm Davi Barbosa🚀. I'm a developer websites and mobile apps pleno. Currently my stack is:
 
 💻 Web front-end development with ReactJs<br/>
 📱 Mobile applications for Android and iOS with React Native<br/>
@@ -8,7 +8,7 @@ I'm Davi Barbosa🚀. I'm a developer websites and mobile apps .Currently my sta
 Also
 
                                                    
-🎓 I am studying third semester of computer science.<br/>
+🎓 I am studying fourth semester of computer science.<br/>
 
  <br/><a href="https://www.linkedin.com/in/davi-barbosa-da-silva/">Linkedin</a>
  <br/>Phone:+5561998828280
