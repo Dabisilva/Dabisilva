@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Davi . I'm a website and mobile pleno developer. Currently my stack is:
+I'm Davi . I'm a website and mobile developer. Currently my stack is:
 
 💻 Web front-end development with ReactJs/ Next.js<br/>
 📱 Mobile applications for Android and iOS with React Native/Expo<br/>
